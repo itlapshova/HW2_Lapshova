@@ -3,7 +3,6 @@
 **Выполните дополнительно:** 
 
 
-**Далее выполните:**
 1)	Скачайте xls файл с данными по платежам (payments) по ссылке https://drive.google.com/open?id=1VwgP8Vc_RCNAoZK5tWt6aUqdET6cS5vS
 2)	Поместите загруженный файл в папку, где у вас по результатам следования инструкции HW1 лежат папки 'applications' и 'contracts'
 3)  Скачайте тетрадку HW2_Lapshova.ipynb по ссылке https://github.com/itlapshova/HW2_Lapshova.git и поместите её в созданную вами папку для папок 'applications' и 'contracts'
